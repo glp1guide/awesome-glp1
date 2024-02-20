@@ -15,6 +15,8 @@ This repo holds all the awesome research, data, compiled anecdata, and resources
 
 # 📑 Research
 
+One of the best things about GLP1 treatments is that they are *well researched*. Here are some of the best pieces of research we've found.
+
 ## 🧑‍🤝‍🧑 Trials
 
 One of the best things about GLP1 Receptor Agonists is that they are *well studied*. 
@@ -60,4 +62,10 @@ Here are the official websites of different formulations of GLP1 Receptor Agonis
 [byetta]: https://www.astrazeneca-us.com/medicines/astrazeneca-medications.html
 
 [lilly]: https://en.wikipedia.org/wiki/Eli_Lilly_and_Company
+
+# 🤗 Contributing
+
+Found something we've missed, or have more to add? 
+
+Make some edits to this file (or any other file) and [file an issue](https://github.com/glp1guide/awesome-glp1/issues) or [open a pull request directly](https://github.com/glp1guide/awesome-glp1/pulls) and we'd be happy to help!
 
