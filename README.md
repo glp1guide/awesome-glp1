@@ -25,7 +25,7 @@ Don't forget to look at conflicts of interest listings -- some trials are funded
 Here are the official websites of different formulations of GLP1 Receptor Agonists:
 
 | Treatment | Peptide Name | Manufacturer |
-|-----------|--------------|
+|-----------|--------------|---------------|
 | [Ozempic][ozempic] | Semaglutide   | [Novo Nordisk][nn] |
 | [Wegovy][wegovy]  | Semaglutide   | [Novo Nordisk][nn] |
 | [Mounjaro][mounjaro] | Tirzepatide  | [Eli Lilly][lilly] |
