@@ -1,11 +1,17 @@
 # 💊 Awesome GLP1
 
+<div style="text-align:center;" align="center">
+  <h3>Sponsored & maintained By</h3>
+<a href="https://glp1.guide?ref=github"><img src="images/glp1-guide-banner.600x256.jpg" alt="glp1.guide banner" height="100px"></a>
+</div>
+
 [GLP1 Receptor Agonists][gg-what-is-glp1] are awesome.
 They're not magic, and they don't work for everyone, and they're not the right *choice* for everyone, but for those they help, they're an amazing solution. 
 
 This repo holds all the awesome research, data, compiled anecdata, and resources for people who want to learn more about the GLP1 Receptor Agonist class of treatments.
 
 [gg-what-is-glp1]: https://glp1.guide/content/what-are-glp1-agonists
+[gg]: https://glp1.guide
 
 # 📑 Research
 
